@@ -11,11 +11,12 @@
 
 
 
+<p align="left">
+<a href="https://www.linkedin.com/in/sena-yucedal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kubrabasaran" height="40" width="40" /></a>
 
 
 
 
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/kubrabasaran)
 
 
 
