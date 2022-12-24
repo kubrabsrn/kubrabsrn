@@ -24,8 +24,7 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kubrabsrn&theme=material-palenight&show_icons=true&count_private=true)"/>
      </p>
 
-
-![snake gif](https://github.com/SenaYcdl/SenaYcdl/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
 <img align=beside width=1520 src="https://raw.githubusercontent.com/NidaYucedal/NidaYucedal/main/54bd87584d4fb9e074778f9f95ba8387.gif" />
 
 
